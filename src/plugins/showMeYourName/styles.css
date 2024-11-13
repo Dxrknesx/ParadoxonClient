@@ -3,9 +3,9 @@
 }
 
 .vc-smyn-suffix::before {
-    content: "(";
+    content: "[";
 }
 
 .vc-smyn-suffix::after {
-    content: ")";
+    content: "]";
 }
